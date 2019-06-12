@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dfd77cb9-e5d6-451b-bb53-70610b67ed39" name="Default Changelist" comment="29.05.19">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +43,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../corporate/app/Http/Controllers/SiteController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
@@ -50,6 +51,15 @@
               <folding>
                 <element signature="e#41#69#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -120,12 +130,11 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../alexandreev" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../land/resources/views/admin/content_service_add.blade.php" />
         <option value="$PROJECT_DIR$/../land/app/Http/Controllers/ServicesAddController.php" />
         <option value="$PROJECT_DIR$/../land/resources/views/admin/header.blade.php" />
         <option value="$PROJECT_DIR$/../land/app/Http/Controllers/PortfoliosController.php" />
@@ -176,6 +185,7 @@
         <option value="$PROJECT_DIR$/../corporate/app/Repositories/Repository.php" />
         <option value="$PROJECT_DIR$/../corporate/app/Http/Controllers/IndexController.php" />
         <option value="$PROJECT_DIR$/../corporate/app/Http/Controllers/SiteController.php" />
+        <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
       </list>
     </option>
   </component>
@@ -277,36 +287,18 @@
           <expand>
             <path>
               <item name="homestead" type="b2602c69:ProjectViewProjectNode" />
-              <item name="corporate" type="462c0819:PsiDirectoryNode" />
+              <item name="homestead" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="homestead" type="b2602c69:ProjectViewProjectNode" />
-              <item name="corporate" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homestead" type="b2602c69:ProjectViewProjectNode" />
-              <item name="corporate" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Repositories" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homestead" type="b2602c69:ProjectViewProjectNode" />
-              <item name="corporate" type="462c0819:PsiDirectoryNode" />
+              <item name="homestead" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="homestead" type="b2602c69:ProjectViewProjectNode" />
-              <item name="corporate" type="462c0819:PsiDirectoryNode" />
+              <item name="homestead" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homestead" type="b2602c69:ProjectViewProjectNode" />
-              <item name="corporate" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="pink" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -381,7 +373,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166052000" />
+    <option name="totallyTimeSpent" value="166719000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -394,8 +386,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.34164223" visible="true" weight="0.19463088" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.34164223" visible="true" weight="0.19463088" />
       <window_info id="Structure" order="1" sideWeight="0.6583578" side_tool="true" weight="0.19463088" />
       <window_info id="Favorites" order="2" sideWeight="0.6583578" side_tool="true" weight="0.19463088" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
@@ -409,7 +402,7 @@
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32991204" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4986577" visible="true" weight="0.7419355" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4986577" visible="true" weight="0.2947214" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -484,17 +477,18 @@
     <MESSAGE value="29.05.19" />
     <option name="LAST_COMMIT_MESSAGE" value="29.05.19" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/welcome.blade.php</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../land/app/Http/Controllers/PortfoliosEditController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-          <folding>
-            <element signature="e#40#58#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../land/resources/views/site/content.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -745,6 +739,13 @@
           <folding>
             <element signature="e#41#69#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
         </state>
       </provider>
     </entry>
