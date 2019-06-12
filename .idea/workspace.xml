@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfd77cb9-e5d6-451b-bb53-70610b67ed39" name="Default Changelist" comment="29.05.19">
-      <change afterPath="$PROJECT_DIR$/../alexandreev/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alexandreev/.idea/laravel-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alexandreev/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alexandreev/resources/assets/admin/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alexandreev/resources/assets/admin/sass/app.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alexandreev/resources/views/admin/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alexandreev/resources/views/admin/template.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alexandreev/resources/views/default/about.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alexandreev/resources/views/default/articles.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alexandreev/resources/views/default/articlesContent.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alexandreev/resources/views/default/contact.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alexandreev/resources/views/default/content.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alexandreev/resources/views/default/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alexandreev/resources/views/default/layouts/layouts.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alexandreev/resources/views/default/list.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alexandreev/resources/views/default/welcome.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alexandreev/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../alexandreev/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alexandreev/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../alexandreev/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alexandreev/app/Http/Controllers/HomeController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alexandreev/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../alexandreev/public/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alexandreev/public/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../alexandreev/public/mix-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alexandreev/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../alexandreev/resources/views/auth/login.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alexandreev/resources/views/auth/register.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../alexandreev/resources/views/auth/register.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alexandreev/resources/views/auth/verify.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../alexandreev/resources/views/auth/verify.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alexandreev/resources/views/category.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../alexandreev/resources/views/category.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alexandreev/resources/views/contacts.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../alexandreev/resources/views/contacts.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alexandreev/resources/views/home.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alexandreev/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../alexandreev/resources/views/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alexandreev/resources/views/tamplate.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../alexandreev/resources/views/template.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alexandreev/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../alexandreev/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alexandreev/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/../alexandreev/webpack.mix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +13,16 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="homestead" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../corporate/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="26" column="67" lean-forward="true" selection-start-line="26" selection-start-column="67" selection-end-line="26" selection-end-column="67" />
+            <state relative-caret-position="391">
+              <caret line="26" column="67" selection-start-line="26" selection-start-column="67" selection-end-line="26" selection-end-column="67" />
               <folding>
                 <element signature="e#7#389#0#PHP" expanded="true" />
               </folding>
@@ -60,7 +33,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../corporate/app/Http/Controllers/IndexController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
+            <state relative-caret-position="552">
               <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
               <folding>
                 <element signature="e#40#68#0#PHP" expanded="true" />
@@ -73,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/../corporate/app/Http/Controllers/SiteController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="38" column="54" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="54" />
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="e#41#69#0#PHP" expanded="true" />
               </folding>
@@ -111,7 +84,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../corporate/resources/views/pink/layouts/site.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
+            <state relative-caret-position="2714">
               <caret line="118" selection-start-line="118" selection-end-line="118" />
             </state>
           </provider>
@@ -408,7 +381,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164234000" />
+    <option name="totallyTimeSpent" value="166052000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -422,12 +395,12 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19194631" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.34164223" visible="true" weight="0.19463088" />
+      <window_info id="Structure" order="1" sideWeight="0.6583578" side_tool="true" weight="0.19463088" />
+      <window_info id="Favorites" order="2" sideWeight="0.6583578" side_tool="true" weight="0.19463088" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
-      <window_info anchor="bottom" id="Version Control" order="2" weight="0.3313783" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.686217" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5013423" side_tool="true" weight="0.627566" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32991204" />
@@ -705,8 +678,8 @@
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa2696.26253/MenusRepository.php" />
     <entry file="file://$PROJECT_DIR$/../corporate/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="26" column="67" lean-forward="true" selection-start-line="26" selection-start-column="67" selection-end-line="26" selection-end-column="67" />
+        <state relative-caret-position="391">
+          <caret line="26" column="67" selection-start-line="26" selection-start-column="67" selection-end-line="26" selection-end-column="67" />
           <folding>
             <element signature="e#7#389#0#PHP" expanded="true" />
           </folding>
@@ -736,7 +709,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../corporate/resources/views/pink/layouts/site.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
+        <state relative-caret-position="2714">
           <caret line="118" selection-start-line="118" selection-end-line="118" />
         </state>
       </provider>
@@ -757,7 +730,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../corporate/app/Http/Controllers/IndexController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
+        <state relative-caret-position="552">
           <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="e#40#68#0#PHP" expanded="true" />
@@ -768,7 +741,7 @@
     <entry file="file://$PROJECT_DIR$/../corporate/app/Http/Controllers/SiteController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="38" column="54" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="54" />
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="e#41#69#0#PHP" expanded="true" />
           </folding>
