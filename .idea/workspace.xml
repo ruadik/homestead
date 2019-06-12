@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dfd77cb9-e5d6-451b-bb53-70610b67ed39" name="Default Changelist" comment="29.05.19">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -271,8 +270,7 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="150" />
-    <option name="y" value="125" />
+    <option name="x" value="123" />
     <option name="width" value="1555" />
     <option name="height" value="845" />
   </component>
@@ -373,7 +371,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="167928000" />
+    <option name="totallyTimeSpent" value="168641000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
