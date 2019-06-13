@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="66580a32-0f72-4102-a74a-197bd66b9b7e" name="Default Changelist" comment="">
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> new_style
     <list default="true" id="dfd77cb9-e5d6-451b-bb53-70610b67ed39" name="Default Changelist" comment="29.05.19" />
 =======
     <list default="true" id="dfd77cb9-e5d6-451b-bb53-70610b67ed39" name="Default Changelist" comment="29.05.19">
@@ -27,10 +30,13 @@
         <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="61">
               <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> new_style
             <state relative-caret-position="39">
               <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
 =======
@@ -351,13 +357,19 @@
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="170448000" />
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> new_style
     <option name="totallyTimeSpent" value="169035000" />
 =======
     <option name="totallyTimeSpent" value="170051000" />
 >>>>>>> master
+<<<<<<< HEAD
+>>>>>>> new_style
+=======
 >>>>>>> new_style
   </component>
   <component name="TodoView">
@@ -730,16 +742,22 @@
     <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state relative-caret-position="61">
           <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> new_style
         <state relative-caret-position="39">
           <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
 =======
         <state relative-caret-position="292">
           <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
 >>>>>>> master
+<<<<<<< HEAD
+>>>>>>> new_style
+=======
 >>>>>>> new_style
         </state>
       </provider>
