@@ -12,7 +12,13 @@
         <!-- Styles -->
         <style>
             html, body {
+<<<<<<< HEAD
                 background-color: #9ff2ff;
+=======
+
+                background-color: #00beff;
+
+>>>>>>> 730f7f4e34a9eb43bc7e194c1c584721146e66e9
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
@@ -45,7 +51,7 @@
             }
 
             .title {
-                font-size: 84px;
+                font-size: 20px;
             }
 
             .links > a {
@@ -85,7 +91,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
+                    <a href="https://laravel.com/docs">Master</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
                     <a href="https://blog.laravel.com">Blog</a>
